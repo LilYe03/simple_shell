@@ -3,7 +3,7 @@
 /*
  * main - entry point for the program
  *
- * Description: This function is the entry point for the simple shell program.
+ * @write: This function is the entry point for the simple shell program.
  * Return: Always return 0 on success
  */
 
