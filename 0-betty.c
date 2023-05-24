@@ -1,9 +1,9 @@
 #include <unistd.h>
 
 /*
- * write - A code that passes the betty check
+ * main - entry point for the program
  *
- * Return: 0
+ * Return: Always return 0 on success
  */
 
 int main(void)
