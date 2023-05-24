@@ -10,5 +10,6 @@ int main(void)
 {
 	char *msg = "Hello, World!\n";
 	write(STDOUT_FILENO, msg, 14);
+
 	return (0);
 }
