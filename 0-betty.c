@@ -2,8 +2,8 @@
 
 /*
  * main - entry point for the program
- * write: a beautiful code that passes the betty check
  *
+ * Description: This function is the entry point for the simple shell program.
  * Return: Always return 0 on success
  */
 
