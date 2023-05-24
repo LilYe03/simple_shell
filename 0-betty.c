@@ -1,9 +1,9 @@
 #include <unistd.h>
 
-/*
- * main - entry point for the program
+/**
+ * main - entry point for the program.
  *
- * @write: This function is the entry point for the simple shell program.
+ * Description: This program prints "Hello, World!" to the standard output.
  * Return: Always return 0 on success
  */
 
